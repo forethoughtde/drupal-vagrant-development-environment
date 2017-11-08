@@ -1,4 +1,4 @@
-# Get starting with PK Drupal Vagrant based development Environment
+# Using PK Drupal Vagrant based development Environment
 
 1. Please make sure that you have installed Vagrant, VirtualBox and PHP Composer
 2. Please check the following lines in Vagrantfile for port numbers; Make sure that the port numbers do not collide with other projects
